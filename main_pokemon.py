@@ -7,6 +7,5 @@ lista.append(["Golem", 44, "masculino", 80])
 lista.append(["Slaking", 40, "feminino", 79])
 lista.append(["Zoroark", 40, "masculino", 60])
 for i in ((lista)):
-    print(f"Nome do pokemon: {i[0]}\nlevel: {i[1]}\ngenero: {i[2]}\nHp: {i[3]}")
-    #print(i)
+    print(f"Nome do pokemon: {i[0]}\nlevel: {i[1]}\ngenero: {i[2]}\nHp: {i[3]}\nFoi cadastrado com sucesso!")
 
